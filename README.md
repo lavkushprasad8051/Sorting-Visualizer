@@ -20,7 +20,7 @@ The current sorting algorithms.<br/><br/>
 
 <b>Insertion Sort</b>: A simple sorting algorithm that is more efficient than bubble and selection sort
 
-<b>Merge Sort</b>: A efficient and in-place sorting algorithm
+<b>Merge Sort</b>: A efficient and stable sorting algorithm
 
 <b>Quick Sort</b>: An efficient and quick in-place sorting algorithm
 
