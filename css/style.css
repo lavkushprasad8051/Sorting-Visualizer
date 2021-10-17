@@ -52,6 +52,7 @@ nav .array-inputs #a_generate {
 }
 
 nav .array-inputs #a_generate:hover {
+  background-color: blue;
   cursor: pointer;
 }
 
